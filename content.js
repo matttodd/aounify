@@ -1,5 +1,5 @@
 var sugar = false;
-var url = "https://rawgit.com/kylesferrazza/barronify/master/aoun.jpg"
+var url = "https://rawgit.com/kylesferrazza/aounify/master/aoun.jpg"
 
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
